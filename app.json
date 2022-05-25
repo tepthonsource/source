@@ -47,7 +47,7 @@
         "SUDO_USERS": {
             "description": "ايدي المطورين",
             "required": true,
-            "value": "1939538780"
+            "value": "1260465030"
         },
         "GROUP_SUPPORT": {
             "description": "معرف جروب الدعم بدون @",
@@ -62,7 +62,7 @@
         "OWNER_NAME": {
             "description": "معرف المطور بدون @",
             "required": true,
-            "value": "QABNADLIB"
+            "value": "P17_12"
         },
         "ALIVE_NAME": {
             "description": "اسم حسابك علي التيلجرام",
