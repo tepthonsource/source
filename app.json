@@ -1,16 +1,16 @@
 {
-    "name": "『 كوبرا 』『Musíc』",
-    "description": "بوت تشغيل الموسيقي والفيديو في االمحادثة الصوتية",
-    "logo": "",
+    "name": "(tebthone_muisc)",
+    "description": "بوت تشغيل الموسيقى والفيديو في االمحادثة الصوتية",
+    "logo": "https://telegra.ph/file/2d2c288212d9dd054a7a3.jpg",
     "keywords": [
         "محادثات صوتية",
         "بوتات تيلجرام",
         "تشغيل فديو",
         "بيوجرام"
     ],
-    "website": "https://t.me/VFF35",
+    "website": "https://t.me/muisc_Tepthone",
     "repository": "https://github.com/alfaransy/REWYT",
-    "success_url": "https://t.me/VFF35",
+    "success_url": "https://t.me/muisc_Tepthone",
     "env": {
         "API_ID": {
             "description": "api id تستطيع جلبه من my.telegram.org",
@@ -41,7 +41,7 @@
             "required": true
         },
         "SESSION_NAME": {
-            "description": "جلسة البيوجرام",
+            "description": "جلسة البايروجرام",
             "required": true
         },
         "SUDO_USERS": {
@@ -52,12 +52,12 @@
         "GROUP_SUPPORT": {
             "description": "معرف جروب الدعم بدون @",
             "required": true,
-            "value": "faqek"
+            "value": "Tepthone_Suporrt_Muisc"
         },
         "UPDATES_CHANNEL": {
             "description": "معرف قناتك بدون @",
             "required": true,
-            "value": "VFF35"
+            "value": "muisc_Tepthone"
         },
         "OWNER_NAME": {
             "description": "معرف المطور بدون @",
