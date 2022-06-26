@@ -12,7 +12,7 @@
 
 ## 🎭 حقوق السورس
 <p align="center">
-  <img src="https://telegra.ph/file/2d2c288212d9dd054a7a3.jpg">
+  <img src="https://telegra.ph/file/2f6762e96eab0a1ef3644.jpg">
 </p>
 
 ## ✨ المميزات
@@ -63,7 +63,7 @@
 
 
 ### قناة التحديثات والدعم 🎑
-<a href="https://t.me/Tepthone_Support_Muisc"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Tepthone_muisc"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Tepthone_Support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Tepthon"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
