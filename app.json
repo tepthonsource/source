@@ -1,16 +1,16 @@
 {
     "name": "(tebthone_muisc)",
     "description": "بوت تشغيل الموسيقى والفيديو في االمحادثة الصوتية",
-    "logo": "https://telegra.ph/file/2d2c288212d9dd054a7a3.jpg",
+    "logo": "https://telegra.ph/file/2f6762e96eab0a1ef3644.jpg",
     "keywords": [
         "محادثات صوتية",
         "بوتات تيلجرام",
         "تشغيل فديو",
         "بيوجرام"
     ],
-    "website": "https://t.me/muisc_Tepthone",
+    "website": "https://t.me/Tepthon",
     "repository": "https://github.com/alfaransy/REWYT",
-    "success_url": "https://t.me/muisc_Tepthone",
+    "success_url": "https://t.me/Tepthon",
     "env": {
         "API_ID": {
             "description": "api id تستطيع جلبه من my.telegram.org",
@@ -52,12 +52,12 @@
         "GROUP_SUPPORT": {
             "description": "معرف جروب الدعم بدون @",
             "required": true,
-            "value": "Tepthone_Suporrt_Muisc"
+            "value": "Tepthon_Support"
         },
         "UPDATES_CHANNEL": {
             "description": "معرف قناتك بدون @",
             "required": true,
-            "value": "muisc_Tepthone"
+            "value": "Tepthon"
         },
         "OWNER_NAME": {
             "description": "معرف المطور بدون @",
