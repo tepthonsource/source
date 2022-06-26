@@ -9,7 +9,7 @@
         "بيوجرام"
     ],
     "website": "https://t.me/Tepthon",
-    "repository": "https://github.com/alfaransy/REWYT",
+    "repository": "https://github.com/TEPTHONEMUISC/source",
     "success_url": "https://t.me/Tepthon",
     "env": {
         "API_ID": {
